@@ -5,3 +5,5 @@
 jupyter_execute
 
 .venv
+data/
+notebooks/runs
