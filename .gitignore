@@ -3,3 +3,7 @@
 /venv*
 .jupyter_cache
 jupyter_execute
+
+.venv
+data/
+notebooks/runs
